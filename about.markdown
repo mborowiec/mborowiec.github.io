@@ -4,8 +4,8 @@ title: About me
 permalink: /about/
 ---
 
-#### Location: San Diego, CA
-#### Company: ServiceNow, Inc
+##### Location: San Diego, CA
+##### Company: ServiceNow, Inc
 
 I am developer with **over 12 years of native mobile iOS development** with focus on UI and Data layer. Passionate about building pixel-perfect mobile (native iOS) apps with focus on **scalability and testability** of the project.
 I love working on challenging tasks and codebases that require refactor (either due to lack of testability, lack of modularity that enables co-located teams to work on the same codebase, and many other various reasons).
