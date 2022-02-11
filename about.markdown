@@ -13,7 +13,7 @@ I love working on challenging tasks and codebases that require refactor (either 
 My experience includes working on low level **Core Graphics, Core Animation** (Analytics app with charts), **UIKit, data layer** (sometimes in C++ if necessary...).
 
 At work I love **collaboration**. I would not be where I am, if not constant and great feedback I had received either through PRs or simply, pair programming and architectural discussions.
-Now I am learning SwiftUI by writing my latest side app using mainly that framework (to learn more, look at my blog!).
+Now I am learning **SwiftUI** by writing my latest side app using mainly that framework (to learn more, look at my blog!).
 
 Professionally I am taking break from mobile development to focus on backend skills, so I just joined team that works on data streaming using Kafka.
 
