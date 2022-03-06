@@ -48,7 +48,7 @@ header_pages:
 defaults:
   home:
     heading: "My Portfolio"
-    subheading: "Story of how I was building SwiftUI (and UIKit) app"
+    subheading: "Story of SwiftUI (and UIKit) app"
   #   banner: ""
 
 # Exclude from processing.
