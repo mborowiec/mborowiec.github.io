@@ -19,6 +19,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15.1"
 end
 
+gem "commonmarker", ">= 0.17.6"
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
