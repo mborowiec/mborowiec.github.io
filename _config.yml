@@ -28,9 +28,26 @@ url: "http://mborowiec.com" # the base hostname & protocol for your site, e.g. h
 # github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+
+# jekyll-theme-yat:
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+#   - index.html
+#   - archives.html
+#   - categories.html
+#   - tags.html
+  - about.markdown
+
+# Page default value
+defaults:
+  home:
+    heading: "My Portfolio"
+    subheading: "Story of how I was building SwiftUI (and UIKit) app"
+  #   banner: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default.
